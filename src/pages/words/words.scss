@@ -1,0 +1,35 @@
+page-words {
+
+        ion-card {
+            text-align: center;
+            width: 100%;
+            border-radius: 4% !important;
+            box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 2px 0px, rgba(0, 0, 0, 0.14) 0px 3px 1px -2px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+        }
+    
+        ion-header {
+            backdrop-filter: blur(8px);
+        }   
+
+        ion-navbar {
+            opacity: 0.9;
+            box-shadow: 0px 1px 13px 1px rgba(0,0,0,0.24);
+        }
+
+        .toolbar-title{
+            color: #fff;
+        }
+
+        .card-img{
+           background-position: center;
+           background-size: cover;
+        }
+
+        .grid-custom{
+            width: 100%;
+        }
+
+        .cards-row{
+            max-height: 10%;
+        }
+}

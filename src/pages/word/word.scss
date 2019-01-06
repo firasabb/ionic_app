@@ -1,0 +1,28 @@
+page-word {
+
+    ion-header {
+        backdrop-filter: blur(8px);
+    }   
+
+    ion-navbar {
+        opacity: 0.9;
+        box-shadow: 0px 1px 13px 1px rgba(0,0,0,0.24);
+    }
+
+    .header-img{
+        min-width: 100%;
+    }
+
+    .back-button{
+        color: #fff;
+    }
+
+    .toolbar-title{
+        color: #fff;
+    }
+
+
+    .toolbar-footer-background.toolbar-background{
+        background-color: #fff;
+    }
+}
